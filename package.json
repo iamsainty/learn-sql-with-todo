@@ -1,0 +1,24 @@
+{
+  "name": "learn-sql-with-todo",
+  "version": "1.0.0",
+  "description": "Learning to use SQL databases with a ToDo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsainty/learn-sql-with-todo.git"
+  },
+  "author": "Priyanshu Chaurasiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsainty/learn-sql-with-todo/issues"
+  },
+  "homepage": "https://github.com/iamsainty/learn-sql-with-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
